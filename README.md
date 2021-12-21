@@ -64,6 +64,8 @@
 ➡️ [more blog posts...](https://medium.com/@trejonstallsworth)
 
 ---
+![Trejon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trejon&count_private=true)
+
 
 [website]: https://trejonstallsworth.com
 [blog]: https://medium.com/@trejonstallsworth
