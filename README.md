@@ -1,40 +1,93 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
- 
-### Hi there 👋, I'm Trejon Stallsworth. I'm a web developer and technical writer. Welcome to my gh page! <br>
- 
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
- 
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
- 
-🌱 *Currently Learning*: React-Native and Ruby<br>
-🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](christina@christinakopecky.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/cmvnk)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/cmvnk)
- 
-😄 Pronouns: She/Her/Hers <br>
-⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
- 
- 
-<!--
-**ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Trejon Stallsworth 👋🏽
+
+[![Trejon's GitHub Banner](./assets/header.jpg)](https://trejonstallsworth.com)
+
+[![Website](https://img.shields.io/website?label=trejontallsworth.com&style=for-the-badge&url=https%3A%2F%2Ftrejonstallsworth.com)](https://trejonstallsworth.com)
+
+## I'm a Full Stack Developer with a preference for Frontend
+
+- 🌱 I’m currently learning TypeScript syntax and design patterns🧑🏽‍💻
+- 🤓 I’m looking to collaborate with other developers
+- 🥅 2022 Goal: Contribute more to Open Source projects
+- ⚡ Fun fact: I play basketball almost as much as I code...**almost** 🏀
+
+### Connect with me:
+
+[<img align="left" alt="trejonstallsworth.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Trejon | Blog" width="22px" src="https://img.icons8.com/ios-filled/50/000000/blog.png" />][blog]
+[<img align="left" alt="Trejon | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][css3]
+[<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png" />][sass]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][bootstrap]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />][javascript]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />][typescript]
+[<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />][react]
+[<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/ios-filled/50/000000/redux.png" />][redux]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/50/000000/python--v2.png" />][python]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />][ruby]
+[<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" />][graphql]
+[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][nodejs]
+[<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" />][sql]
+[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />][mysql]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][postgresql]
+[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][mongodb]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/redis.png"/>][redis]
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/48/000000/console.png" />][terminal]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/fluency/48/000000/docker.png" />][docker]
+[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />][aws]
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Binary Heaps in JavaScript](https://medium.com/@trejonstallsworth/binary-heaps-in-js-df00f1459d33)
+- [Spiral Matrix in JavaScript](https://medium.com/@trejonstallsworth/spiral-matrix-in-javascript-66e069fca668)
+- [Graphs in JavaScript](https://medium.com/@trejonstallsworth/graphs-in-javascript-831db916de10)
+- [Binary Trees](https://medium.com/swlh/binary-trees-b2b75195a69e)
+- [Basic JavaScript Sorting Algorithms](https://medium.com/@trejonstallsworth/basic-javascript-sorting-algorithms-b2fc00384d4a)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@trejonstallsworth)
+
+---
+
+[website]: https://trejonstallsworth.com
+[blog]: https://medium.com/@trejonstallsworth
+[linkedin]: https://www.linkedin.com/in/TrejonStallsworth
+[vscode]: https://code.visualstudio.com
+[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]: https://sass-lang.com/guide
+[javascript]: https://www.javascript.com/
+[react]: https://reactjs.org/
+[redux]: https://redux.js.org/
+[python]: https://www.python.org/
+[ruby]: https://www.ruby-lang.org/en/
+[graphql]: https://graphql.org/
+[bootstrap]: https://getbootstrap.com/
+[typescript]: https://www.typescriptlang.org/
+[nodejs]: https://nodejs.org/en/
+[sql]: https://developer.mozilla.org/en-US/docs/Glossary/SQL
+[postgresql]: https://www.postgresql.org/
+[mysql]: https://www.mysql.com/
+[mongodb]: https://www.mongodb.com/
+[redis]: https://redis.io/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[terminal]: https://support.apple.com/guide/terminal/welcome/mac
+[docker]: https://www.docker.com/
+[aws]: https://aws.amazon.com/
