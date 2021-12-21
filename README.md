@@ -6,16 +6,16 @@
 
 ## I'm a Full Stack Developer with a preference for Frontend
 
-- 🌱 I’m currently learning TypeScript syntax and design patterns🧑🏽‍💻
+- 🌱 I’m currently learning TypeScript syntax and design patterns 🧑🏽‍💻
 - 🤓 I’m looking to collaborate with other developers
 - 🥅 2022 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I play basketball almost as much as I code...**almost** 🏀
 
 ### Connect with me:
 
-[<img align="left" alt="trejonstallsworth.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Trejon | Blog" width="22px" src="https://img.icons8.com/ios-filled/50/000000/blog.png" />][blog]
-[<img align="left" alt="Trejon | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="trejonstallsworth.com" width="22px" src="https://img.icons8.com/color/48/000000/internet--v1.png" />][website]
+[<img align="left" alt="Trejon | Blog" width="22px" src="https://img.icons8.com/color/48/000000/blog.png" />][blog]
+[<img align="left" alt="Trejon | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
@@ -25,25 +25,25 @@
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][css3]
 [<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][bootstrap]
+[<img align="left" alt="bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />][bootstrap]
 [<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />][javascript]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />][typescript]
+[<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />][typescript]
 [<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />][react]
 [<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/ios-filled/50/000000/redux.png" />][redux]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/50/000000/python--v2.png" />][python]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />][ruby]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/50/000000/python--v2.png" />][python]
+[<img align="left" alt="Ruby" width="26px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />][ruby]
 [<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" />][graphql]
 [<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][nodejs]
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" />][sql]
 [<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />][mysql]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][postgresql]
+[<img align="left" alt="Postgresql" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />][postgresql]
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][mongodb]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/redis.png"/>][redis]
+[<img align="left" alt="Redis" width="26px" src="https://img.icons8.com/color/48/000000/redis.png"/>][redis]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/48/000000/console.png" />][terminal]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/fluency/48/000000/docker.png" />][docker]
-[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />][aws]
+[<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/doodle/48/000000/console--v2.png" />][terminal]
+[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/fluency/48/000000/docker.png" />][docker]
+[<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />][aws]
 
 <br />
 <br />
