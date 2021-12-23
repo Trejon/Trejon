@@ -1,4 +1,4 @@
-## Hi there, I'm Trejon Stallsworth 👋🏽
+## Hi there, I'm Trejon 👋🏽
 
 [![Trejon's GitHub Banner](./assets/header.jpg)](https://trejonstallsworth.com)
 
