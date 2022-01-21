@@ -1,6 +1,6 @@
 ## Hi there, I'm Tre 👋🏽
 
-[![Trejon's GitHub Banner](./assets/header.jpg)](https://trejonstallsworth.com)
+[![Trejon's GitHub Banner](./assets/banner.jpg)](https://trejonstallsworth.com)
 
 [![Website](https://img.shields.io/website?label=trejontallsworth.com&style=for-the-badge&url=https%3A%2F%2Ftrejonstallsworth.com)](https://trejonstallsworth.com)
 
