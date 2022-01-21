@@ -6,7 +6,7 @@
 
 ## I'm a Full Stack Developer with a slight preference for Frontend
 
-- 🌱 I’m currently learning TypeScript syntax and design patterns 🧑🏽‍💻
+- 🌱 I’m currently learning React Native and mobile development 🧑🏽‍💻
 - 🤓 I’m looking to collaborate with other developers
 - 🥅 2022 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I play basketball almost as much as I code...**almost** 🏀
