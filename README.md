@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=trejontallsworth.com&style=for-the-badge&url=https%3A%2F%2Ftrejonstallsworth.com)](https://trejonstallsworth.com)
 
-## I'm a Full Stack Developer with a preference for Frontend
+## I'm a Full Stack Developer with a slight preference for Frontend
 
 - 🌱 I’m currently learning TypeScript syntax and design patterns 🧑🏽‍💻
 - 🤓 I’m looking to collaborate with other developers
