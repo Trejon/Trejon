@@ -11,7 +11,7 @@
 - 🥅 2022 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I play basketball almost as much as I code...**almost** 🏀
 
-### Connect with me:
+### Let's connect:
 
 [<img align="left" alt="trejonstallsworth.com" width="22px" src="https://img.icons8.com/color/48/000000/internet--v1.png" />][website]
 [<img align="left" alt="Trejon | Blog" width="22px" src="https://img.icons8.com/color/48/000000/blog.png" />][blog]
